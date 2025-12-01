@@ -14,3 +14,17 @@ Folder: `house_price_prediction/`
 ---
 
 ## 📁 Folder Structure  
+ai-ml-tasks/
+│
+├── README.md
+├── requirements.txt
+│
+├── iris_classification/
+│ ├── README.md
+│ ├── model.py
+│ └── iris_classification.ipynb
+│
+└── house_price_prediction/
+├── README.md
+├── model.py
+└── house_price_prediction.ipynb
