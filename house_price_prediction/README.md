@@ -44,3 +44,4 @@ Metrics used:
 ---
 
 ## 🚀 Run the Model
+-py model.py
