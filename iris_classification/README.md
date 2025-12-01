@@ -56,3 +56,8 @@ Enter Petal Length (cm): 1.4
 Enter Petal Width (cm): 0.2
 
 Predicted Species: setosa
+
+---
+
+## 🚀 Run the Model
+- py model.py
